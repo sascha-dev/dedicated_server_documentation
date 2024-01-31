@@ -2,6 +2,8 @@
 ## Notes
 This is a dedicated server setup tested on a Windows Server 2020. When the server starts, it searches for updates and then starts the enshrouded server.
 
+_Source: https://www.eurogamer.net/enshrouded-how-to-get-set-up-a-dedicated-server-create-join-9410_
+
 ## Prerequisites
 Download [SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD)
 
