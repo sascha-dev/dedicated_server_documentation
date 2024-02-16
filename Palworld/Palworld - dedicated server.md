@@ -49,7 +49,7 @@ To first check for updates and then start use: `start_update_server.cmd`
 echo ------------------
 echo Updating server
 echo ------------------
-start /WAIT C:\serverdata\steamcmd\steamcmd.exe +force_install_dir c:\serverdata\palworld +login anonymous +app_update 2278520 +quit
+start /WAIT C:\serverdata\steamcmd\steamcmd.exe +force_install_dir c:\serverdata\palworld +login anonymous +app_update 2394010 +quit
 echo ------------------
 echo Starting server
 echo ------------------
