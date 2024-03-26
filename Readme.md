@@ -6,3 +6,6 @@
 
 # Palworld dedicated server setup
 [Palworld/Palworld - dedicated server](Palworld/Palworld%20-%20dedicated%20server.md)
+
+# Sons of the forest dedicated server setup
+[Sons of the forest/Sons of the forest - dedicated server](Sons%20of%20the%20forest/Sons%20of%20the%20forest%20-%20dedicated%20server.md)
