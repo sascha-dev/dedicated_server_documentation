@@ -25,6 +25,14 @@ Note: your cmd should be in `c:\serverdata`
 steamcmd\steamcmd.exe +force_install_dir c:\serverdata\palworld +login anonymous +app_update 2394010 validate +quit
 ```
 
+Install Visual C++ Runtime
+`C:\serverdata\palworld\_CommonRedist\vcredist\2022`
+Install DirectX
+* Webinstaller:
+https://www.microsoft.com/en-us/download/details.aspx?id=35&msockid=3cbe09027eb96afa35db1dda7fc66b81
+* Offline Installer:
+https://www.microsoft.com/en-us/download/details.aspx?id=8109
+
 ## Create some scripts for easier update and start
 To only start the server use: `start_server.cmd`
 ```cmd
@@ -60,7 +68,7 @@ start C:\serverdata\palworld\PalServer.exe
 You can change the ports in your configuration file at `c:\serverdata\palworld\Pal\Saved\Config\WindowsServer\PalWorldSettings.ini`.
 If you start the server the first time, the game creates an empty one.
 You need to copy the contents from the template at `c:\serverdata\palworld\DefaultPalWorldSettings.ini`.
-```
+
 If you are using the standard ports, you need to create a rule for ports 27015 and 8211.
 You can use these powershell commands to do this:
 ```powershell
