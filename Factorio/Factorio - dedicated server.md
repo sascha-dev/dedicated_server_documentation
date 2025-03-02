@@ -58,6 +58,9 @@ echo ------------------
 start /wait c:\serverdata\factorio\bin\x64\factorio.exe --start-server "C:\serverdata\factorio\saves\Savegame.zip" --server-settings c:\serverdata\factorio\data\server-settings.json --mod-directory C:\serverdata\factorio\mods
 ```
 
+## Mod Updates
+https://github.com/astevens/factorio-mod-updater/blob/master/factorio-mod-updater
+
 ## Firewall settings
 You can change the ports in your configuration file at `c:\serverdata\factorio\data\server-settings.json`.
 You can copy the template from `C:\serverdata\factorio\data\server-settings.example.json`

@@ -10,5 +10,8 @@
 # Sons of the forest dedicated server setup
 [Sons of the forest/Sons of the forest - dedicated server](Sons%20of%20the%20forest/Sons%20of%20the%20forest%20-%20dedicated%20server.md)
 
-# R-rising dedicated server setup
+# V-rising dedicated server setup
 [V-Rising/V-Rising - dedicated server](V-Rising/V-Rising%20-%20dedicated%20server.md)
+
+# Ark Ascended dedicated server setup
+[Ark-Ascended/Ark-Ascended - dedicated server](Ark-Ascended/Ark-Ascended%20-%20dedicated%20server.md)
